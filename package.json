@@ -1,15 +1,15 @@
 {
-  "name": "@openai/realtime-api-beta",
+  "name": "@iaj_connect/realtime-api-beta",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "type": "module",
-  "description": "OpenAI Realtime API Reference Client (beta)",
+  "description": "iaj_connect Realtime API Reference Client (beta)",
   "main": "index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
     "test": "mocha ./test/index.js"
   },
-  "author": "Keith Horwood <khorwood@openai.com>",
+  "author": "dong <chao.dong@imjava.com>",
   "license": "MIT",
   "devDependencies": {
     "audio-decode": "^2.2.2",
